@@ -9,7 +9,7 @@ pip install packagename (or pip3 install)
 PACKAGES:
 os - to access files
 eyed3 - to access metadata
-yt_dlp - to download songs
+yt_dlp - to download songs (downloadble by yt-dlp)
 pytube - to get playlist links
 
 FFMPEG: https://ffmpeg.org/download.html
